@@ -1,6 +1,6 @@
 # 🎬 AniMind AI Story Video Generator
 
-AniMind is an advanced AI-powered application that transforms text prompts into complete stories with matching video animations and narration. It combines multiple AI models to create a seamless storytelling experience.
+AniMind is an advanced AI-powered application that transforms text prompts into complete stories with matching video animations and narration. It combines multiple AI models to create a seamless storytelling experience!
 
 ## 🌟 Features
 
