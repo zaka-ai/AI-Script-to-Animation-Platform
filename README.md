@@ -138,6 +138,7 @@ pip install gradio edge_tts torch diffusers transformers moviepy imageio opencv-
 - Story Length: 15-20 sentences
 - Token Limit: 77 tokens per sentence
 - Audio: Adaptive voice selection based on sentiment
+  
 
 ## 🔄 Processing Flow
 
